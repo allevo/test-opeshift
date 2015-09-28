@@ -1,0 +1,22 @@
+{
+  "name": "test-opeshift",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allevo/test-opeshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allevo/test-opeshift/issues"
+  },
+  "homepage": "https://github.com/allevo/test-opeshift",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
